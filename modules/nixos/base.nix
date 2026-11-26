@@ -10,6 +10,11 @@
     "flakes"
   ];
 
+  nixpkgs.config.allowUnfreePredicate = pkg:
+    builtins.elem (lib.getName pkg) [
+      "terraform"
+    ];
+
   environment.systemPackages = with pkgs; [
     vim
     curl
