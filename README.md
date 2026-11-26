@@ -22,14 +22,14 @@
 > **System Information:**
 >
 > - **OS:** NixOS
-> - **Window Manager:** Gnomew
+> - **Window Manager:** Gnome
 > - **Shell:** Fish
 > - **Terminal:** Kitty
 > - **Editor:** Visual Studio Code
 
 ## About
 
-Yuki is a set of configurations crafted for NixOS and Home Manager, utilizing the power of [flakes](https://nixos.wiki/wiki/Flakes) and [flake-parts](https://github.com/hercules-ci/flake-parts) for optimal organization and efficiency.
+Ice is a set of configurations crafted for NixOS and Home Manager, utilizing the power of [flakes](https://nixos.wiki/wiki/Flakes) and [flake-parts](https://github.com/hercules-ci/flake-parts) for optimal organization and efficiency.
 
 ## Author
 
